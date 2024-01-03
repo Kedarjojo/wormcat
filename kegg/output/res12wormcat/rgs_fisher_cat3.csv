@@ -1,0 +1,76 @@
+"","Category","RGS","AC","PValue"
+"9","Extracellular material: collagen",89,184,4.94870519844686e-105
+"4","Cytoskeleton: cadherin",5,11,2.36961645579755e-07
+"40","Signaling: hedgehog-like",9,89,3.09600051812501e-07
+"57","Transcription: chromatin structure: histone",8,85,2.28082938539356e-06
+"36","Proteolysis general: metallopeptidase",7,123,0.00019407394280258
+"62","Transmembrane transport: amino acid",4,37,0.000504455740460652
+"70","Unassigned: ALS2cr12 domain",3,31,0.00349994635577422
+"49","Stress response: pathogen: caenacin",2,11,0.00585064954268829
+"64","Transmembrane transport: aquaporin",2,12,0.0067851649475317
+"25","Neuronal function: synaptic function: neuropeptide",5,139,0.0100455187970169
+"3","Cytoskeleton: actin function: actin",2,19,0.0150197573020929
+"41","Signaling: Janus",1,1,0.0177905545703849
+"1","Chaperone: cyclophilin",2,28,0.0295014031862727
+"5","Cytoskeleton: motor protein: unassigned",1,3,0.0352635069086636
+"10","Extracellular material: cuticlin",2,35,0.0433496705988171
+"26","Neuronal function: synaptic function: neurotransmitter receptor",2,37,0.0476706476946933
+"73","Unassigned: receptor L domain",2,41,0.0567529569442349
+"51","Stress response: pathogen: unassigned",3,96,0.0598147603409871
+"48","Stress response: pathogen: ASABF",1,6,0.0608898490732235
+"63","Transmembrane transport: ammonium",1,6,0.0608898490732235
+"59","Transcription: general machinery: RNA Pol II: TFIIH",1,8,0.0775934643298494
+"60","Transmembrane protein: seven transmembrane receptor: sre",2,52,0.0843824803109987
+"12","Extracellular material: PGI",2,53,0.0870632363575865
+"13","Extracellular material: secreted protein",2,54,0.0897691091677091
+"16","Metabolism: 1CC: transsulfuration",1,10,0.0939989473068304
+"65","Transmembrane transport: glutamate channel",1,10,0.0939989473068304
+"33","Proteolysis general: aspartate: unassigned",1,11,0.102091561576698
+"8","Development: somatic",3,122,0.10255869383494
+"15","Lysosome: unassigned",1,13,0.118059827781993
+"2","Cilia: IFT-B",1,14,0.125936778761532
+"17","Metabolism: amino sugar",1,14,0.125936778761532
+"50","Stress response: pathogen: saposin ",1,14,0.125936778761532
+"19","Metabolism: lipid: fatty acid",2,68,0.129932828836194
+"42","Signaling: lipid: phosphatase",1,15,0.133743131259734
+"34","Proteolysis general: cysteine: cathepsin",1,19,0.164275169961928
+"66","Transmembrane transport: major facilitator",2,89,0.195725139267589
+"54","Transcription factor: bZIP",1,24,0.200926272898299
+"11","Extracellular material: galectin",1,26,0.215131075709918
+"20","Metabolism: lipid: glycerolipid ",1,27,0.222138170746799
+"23","Metabolism: lipid: unassigned",1,27,0.222138170746799
+"43","Signaling: phosphatase: unassigned",2,98,0.225040950458043
+"75","Unassigned: TransThyretin-Related family domain",1,29,0.235964595702775
+"35","Proteolysis general: inhibitor: serine",1,30,0.242785049283499
+"47","Stress response: heat",1,30,0.242785049283499
+"58","Transcription: general machinery: RNA Pol II: elongation",1,30,0.242785049283499
+"56","Transcription factor: unassigned",1,33,0.262882010449266
+"14","Globin",1,36,0.282443751159248
+"53","Transcription factor: bHLH",1,36,0.282443751159248
+"22","Metabolism: lipid: sphingolipid",1,44,0.3320993206342
+"69","Unassigned",40,4113,0.345185689129104
+"52","Stress response: unassigned",1,49,0.361367742570416
+"68","Transmembrane transport: unassigned",1,51,0.372711537005095
+"45","Stress response: detoxification: GST",1,52,0.378307383525949
+"71","Unassigned: Glycosyltransferase family A ",1,56,0.400194313058745
+"21","Metabolism: lipid: phospholipid",1,58,0.410846105195436
+"6","Development: apoptosis",1,64,0.441676084773189
+"18","Metabolism: lipid: binding",1,67,0.4564786203205
+"37","Proteolysis general: unassigned",1,68,0.461324762426653
+"46","Stress response: detoxification: ugt",1,69,0.466127544072891
+"72","Unassigned: prion domain",1,69,0.466127544072891
+"27","Non-coding RNA: linc",2,174,0.466505110645561
+"7","Development: general",1,81,0.520517071123161
+"29","Non-coding RNA: snoRNA",3,344,0.598735288345161
+"24","Metabolism: nucleotide",1,111,0.633402337572083
+"44","Stress response: C-type Lectin",2,256,0.670502496032509
+"30","Non-coding RNA: snRNA",1,129,0.687900795552516
+"32","Protein modification: carbohydrate",1,129,0.687900795552516
+"31","Nucleic acid: binding: zinc finger",1,136,0.706828860501811
+"38","Proteolysis proteasome: E3: F box",3,437,0.750990028905312
+"67","Transmembrane transport: solute carrier",1,197,0.829942661887807
+"55","Transcription factor: NHR",1,259,0.902128194286513
+"74","Unassigned: regulated by multiple stresses",10,1707,0.936494071921391
+"61","Transmembrane protein: unassigned",5,1692,0.999092197094888
+"39","Pseudogene",6,2081,0.999736018613258
+"28","Non-coding RNA: ncRNA",3,7850,1

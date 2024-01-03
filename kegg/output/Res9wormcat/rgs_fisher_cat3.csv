@@ -1,0 +1,134 @@
+"","Category","RGS","AC","PValue"
+"46","Non-coding RNA: tRNA",141,628,2.44766779116619e-49
+"62","Proteolysis proteasome: E3: F box",61,437,3.29252500317583e-14
+"65","Pseudogene",154,2081,5.26557442219207e-10
+"125","Unassigned",257,4113,1.36839032900867e-08
+"132","Unassigned: regulated by multiple stresses",121,1707,2.00146213876831e-07
+"103","Transmembrane protein: seven transmembrane receptor: srbc",13,70,2.57391044621026e-05
+"78","Stress response: C-type Lectin",26,256,8.46942004170548e-05
+"92","Transcription factor: T box",7,21,9.16689950162422e-05
+"15","Extracellular material: collagen",20,184,0.000232112649995048
+"73","Signaling: phosphatase: Y ",13,90,0.000247098640800186
+"29","Metabolism: lipid: o-acyl transferase",10,56,0.0002827127445394
+"99","Transcription: chromatin structure: histone",12,85,0.000505853767548126
+"45","Non-coding RNA: snRNA",15,129,0.000704234105482086
+"128","Unassigned: Glycosyltransferase family A ",8,56,0.00390604691311911
+"113","Transmembrane protein: seven transmembrane receptor: unassigned",14,155,0.00831407473407804
+"131","Unassigned: receptor L domain",6,41,0.0106900630966056
+"20","Major sperm protein",5,31,0.0136253638568003
+"4","Cytoskeleton: microtubule: tau tubulin kinase",8,74,0.0167764546689145
+"111","Transmembrane protein: seven transmembrane receptor: srz",7,62,0.0201468098229559
+"5","Cytoskeleton: paxillin",2,5,0.0292405461180178
+"14","Extracellular material: chondroitin sulfotransferase",4,27,0.0338147904174584
+"129","Unassigned: membrane spanning domain",15,210,0.0379550287748691
+"110","Transmembrane protein: seven transmembrane receptor: srxa",3,16,0.0381676792967307
+"109","Transmembrane protein: seven transmembrane receptor: srt",6,61,0.0510124117953752
+"52","Proteolysis general: cysteine: cathepsin",3,19,0.0555564720336057
+"108","Transmembrane protein: seven transmembrane receptor: srsx",4,34,0.0638551694700205
+"105","Transmembrane protein: seven transmembrane receptor: sre",5,52,0.0768057333252232
+"53","Proteolysis general: cysteine: unassigned",2,10,0.0805663394860883
+"49","Protein modification: carbohydrate",9,129,0.10212038234214
+"51","Proteolysis general: cysteine: calpain",2,12,0.10545952016282
+"17","Extracellular material: galectin",3,26,0.107658301398125
+"133","Unassigned: TransThyretin-Related family domain",3,29,0.134139626357813
+"85","Stress response: pathogen: NLP-like",2,15,0.145901043871162
+"83","Stress response: osmotic",1,3,0.150244208490374
+"86","Stress response: pathogen: ShK",1,3,0.150244208490374
+"130","Unassigned: prion domain",5,69,0.173287762726869
+"3","Cytoskeleton: microtubule: RMDN",1,5,0.216670449313058
+"21","Metabolism: 1CC: methionine",1,5,0.216670449313058
+"32","Metabolism: mitochondria: morphology",1,5,0.216670449313058
+"107","Transmembrane protein: seven transmembrane receptor: srj",3,40,0.245234202570189
+"116","Transmembrane transport: ammonium",1,6,0.247908766512232
+"9","Development: germline",2,23,0.26312829594473
+"114","Transmembrane protein: unassigned",76,1692,0.273335347292212
+"42","Non-coding RNA: miRNA",13,257,0.284187850072427
+"100","Transcription: chromatin structure: HMG protein",1,8,0.306695189448822
+"101","Transcription: general machinery: RNA Pol II: TFIIH",1,8,0.306695189448822
+"119","Transmembrane transport: ion",1,8,0.306695189448822
+"68","Signaling: hedgehog-like",5,89,0.321372275611157
+"76","Signaling: unassigned",4,70,0.34168969936939
+"66","Signaling: casein kinase",1,10,0.36088338646814
+"67","Signaling: FERM",1,10,0.36088338646814
+"77","Signaling: Y kinase",4,73,0.36901321695154
+"90","Transcription factor: homeodomain",5,97,0.384761431487524
+"56","Proteolysis general: lysozyme",1,11,0.386366754375599
+"84","Stress response: pathogen: caenacin",1,11,0.386366754375599
+"72","Signaling: phosphatase: unassigned",5,98,0.392693696154982
+"93","Transcription factor: unassigned",2,33,0.409498394337106
+"55","Proteolysis general: inhibitor: TIL domain",1,14,0.456876603693086
+"13","Extracellular material: chitinase",2,37,0.46420172550804
+"96","Transcription: chromatin modification: demethylase",1,15,0.478529805013381
+"40","Non-coding RNA: asRNA",1,16,0.499319102584769
+"95","Transcription: chromatin modification: acetyltransferase",1,16,0.499319102584769
+"102","Transmembrane protein: seven transmembrane receptor:  dmsr",1,16,0.499319102584769
+"11","DNA: nuclease",1,17,0.519278989170812
+"61","Proteolysis proteasome: E2",1,17,0.519278989170812
+"33","Metabolism: mitochondria: translocase",1,19,0.556841664588035
+"71","Signaling: lipid: phospholipase A",1,19,0.556841664588035
+"97","Transcription: chromatin modification: methyltransferase",1,19,0.556841664588035
+"31","Metabolism: mitochondria: complex V",1,22,0.607751055575765
+"70","Signaling: heteromeric G protein: unassigned",1,22,0.607751055575765
+"38","mRNA functions: processing: polyadenylation",1,23,0.62338538200715
+"1","Cell cycle: kinase",1,24,0.638396093926418
+"82","Stress response: ER",1,24,0.638396093926418
+"80","Stress response: detoxification: GST",2,52,0.639670419179226
+"18","Extracellular material: PGI",2,53,0.649597352736513
+"127","Unassigned: BTB and MATH domain",1,25,0.652808084070068
+"79","Stress response: detoxification: CYP",3,82,0.663525708919806
+"60","Proteolysis proteasome: 19S",1,26,0.666645250804156
+"69","Signaling: heteromeric G protein: arrestin",1,26,0.666645250804156
+"28","Metabolism: lipid: lipase",1,27,0.679930537874798
+"2","Chaperone: cyclophilin",1,28,0.692685972568458
+"30","Metabolism: lipid: phospholipid",2,58,0.695978703384012
+"118","Transmembrane transport: extracellular ligand gated channel",2,59,0.704619089637814
+"54","Proteolysis general: inhibitor: serine",1,30,0.716691030009454
+"63","Proteolysis proteasome: E3: SCF",1,30,0.716691030009454
+"64","Proteolysis proteasome: ubiquitin peptidase",1,31,0.727980447466601
+"126","Unassigned: ALS2cr12 domain",1,31,0.727980447466601
+"122","Transmembrane transport: sodium channel",1,32,0.738819668138978
+"47","Nucleic acid: binding: unassigned",3,93,0.741260419025072
+"91","Transcription factor: NHR",9,259,0.743496918114042
+"58","Proteolysis general: serine",1,34,0.759218665835159
+"98","Transcription: chromatin modification: unassigned",1,34,0.759218665835159
+"120","Transmembrane transport: mitochondrial: solute carrier",1,34,0.759218665835159
+"87","Stress response: pathogen: unassigned",3,96,0.75979248920687
+"16","Extracellular material: cuticlin",1,35,0.768812251136765
+"37","mRNA functions: processing: nuclease",1,35,0.768812251136765
+"27","Metabolism: lipid: fatty acid",2,68,0.773447873393744
+"59","Proteolysis general: unassigned",2,68,0.773447873393744
+"22","Metabolism: amino acid: breakdown",1,36,0.778023312413237
+"36","mRNA functions: binding: RBM",1,36,0.778023312413237
+"89","Transcription factor: bHLH",1,36,0.778023312413237
+"115","Transmembrane transport: amino acid",1,37,0.786867113226349
+"24","Metabolism: insulin",1,39,0.803510964576242
+"50","Protein modification: methyltransferase",2,76,0.822410798546072
+"6","Cytoskeleton: unassigned",2,77,0.827811834615056
+"117","Transmembrane transport: chloride channel",1,44,0.839650508376468
+"8","Development: general",2,81,0.847961171176433
+"75","Signaling: small GTPase: Rho/Rac",1,46,0.8521698060807
+"88","Stress response: unassigned",1,49,0.869138886221644
+"124","Transmembrane transport: unassigned",1,51,0.879354348318004
+"57","Proteolysis general: metallopeptidase",3,123,0.882067296425799
+"94","Transcription factor: ZF",1,53,0.888771793279205
+"19","Extracellular material: secreted protein",1,54,0.893200949585551
+"35","Metabolism: unassigned",5,192,0.895985557725003
+"44","Non-coding RNA: snoRNA",10,344,0.899591025883245
+"112","Transmembrane protein: seven transmembrane receptor: str",5,194,0.900706254636582
+"7","Development: apoptosis",1,64,0.928858634984008
+"74","Signaling: S/T kinase",1,66,0.934409679768188
+"104","Transmembrane protein: seven transmembrane receptor: srd",1,66,0.934409679768188
+"26","Metabolism: lipid: binding",1,67,0.937020478839686
+"12","DNA: replication",1,69,0.941934227388587
+"81","Stress response: detoxification: ugt",1,69,0.941934227388587
+"34","Metabolism: mitochondria: unassigned",1,72,0.948594970573684
+"25","Metabolism: lipid: beta oxidation",1,78,0.959710558210569
+"23","Metabolism: carbohydrate",1,83,0.96711273802927
+"48","Nucleic acid: binding: zinc finger",2,136,0.975320773139194
+"121","Transmembrane transport: potassium channel",1,121,0.992962262038943
+"10","Development: somatic",1,122,0.993241927140306
+"39","Neuronal function: synaptic function: neuropeptide",1,139,0.996607398534866
+"41","Non-coding RNA: linc",1,174,0.9991780504487
+"123","Transmembrane transport: solute carrier",1,197,0.999675948076802
+"106","Transmembrane protein: seven transmembrane receptor: srh",1,219,0.999866884347834
+"43","Non-coding RNA: ncRNA",40,7850,1

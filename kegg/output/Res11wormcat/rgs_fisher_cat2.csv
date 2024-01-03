@@ -1,0 +1,61 @@
+"","Category","RGS","AC","PValue"
+"7","Extracellular material: collagen",66,184,7.94687844571615e-76
+"35","Signaling: hedgehog-like",11,89,5.71248687035746e-10
+"47","Transcription: chromatin structure",8,105,3.62454642642582e-06
+"27","Proteolysis general: aspartate",4,33,0.00020087060984011
+"52","Transmembrane transport: ammonium",2,6,0.001647444093328
+"1","Chaperone: cyclophilin",3,28,0.00181422872544719
+"51","Transmembrane transport: amino acid",3,37,0.00378353221322951
+"2","Cytoskeleton: cadherin",2,11,0.00447127914765705
+"53","Transmembrane transport: aquaporin",2,12,0.00518943613426946
+"36","Signaling: Janus",1,1,0.0154916813653363
+"43","Stress response: pathogen",5,192,0.0200172604469042
+"42","Stress response: osmotic",1,3,0.0307424101495873
+"31","Proteolysis general: serine",2,34,0.0320725381974577
+"34","Signaling: calcium",2,35,0.0337322249774953
+"11","Globin",2,36,0.0354246573949374
+"28","Proteolysis general: cysteine",2,41,0.0443567746770812
+"15","Metabolism: creatine kinase",1,6,0.0531749318427369
+"59","Transmembrane transport: unassigned",2,51,0.0643406856439464
+"40","Stress response: dauer",1,8,0.0678396119129632
+"57","Transmembrane transport: nucleotide gated channel",1,8,0.0678396119129632
+"54","Transmembrane transport: glutamate channel",1,10,0.0822762525699345
+"32","Proteolysis general: unassigned",2,68,0.103529598668981
+"37","Signaling: Notch",1,18,0.137812793304326
+"56","Transmembrane transport: nicotinic acid receptor",1,20,0.151161536943506
+"9","Extracellular material: galectin",1,26,0.18997568286333
+"19","Metabolism: unassigned",3,192,0.195171802874308
+"14","Metabolism: 1CC",1,29,0.208709393840488
+"12","Lysosome: acid phosphatase",1,31,0.220956247396462
+"13","Major sperm protein",1,31,0.220956247396462
+"41","Stress response: detoxification",3,206,0.223124437081104
+"46","Transcription factor: unassigned",1,33,0.233012797119075
+"8","Extracellular material: cuticlin",1,35,0.244882011924452
+"6","Development: somatic",2,122,0.251069279282247
+"30","Proteolysis general: metallopeptidase",2,123,0.253934280564519
+"44","Stress response: unassigned",1,49,0.322960943348354
+"39","Stress response: C-type Lectin",3,256,0.327127506963895
+"10","Extracellular material: secreted protein",1,54,0.348836788546507
+"50","Transmembrane protein: unassigned",15,1692,0.35476991826764
+"21","Non-coding RNA: linc",2,174,0.39743290086371
+"4","Development: apoptosis",1,64,0.397648266860172
+"29","Proteolysis general: inhibitor",1,66,0.40696064894107
+"3","Cytoskeleton: unassigned",1,77,0.455654568179352
+"5","Development: general",1,81,0.472348380673942
+"55","Transmembrane transport: major facilitator",1,89,0.50420996001366
+"18","Metabolism: nucleotide",1,111,0.582220593409913
+"16","Metabolism: lipid",4,526,0.588950079169207
+"58","Transmembrane transport: potassium channel",1,121,0.613483247335487
+"26","Protein modification: carbohydrate",1,129,0.636793974833833
+"48","Transcription: general machinery: RNA Pol II",1,133,0.647914640301834
+"24","Non-coding RNA: snoRNA",2,344,0.749149624390981
+"38","Signaling: phosphatase",1,196,0.784142137044442
+"60","Unassigned",44,6343,0.785540330283121
+"20","Neuronal function: synaptic function",1,244,0.851214212679236
+"22","Non-coding RNA: miRNA",1,257,0.865465063935048
+"45","Transcription factor: NHR",1,259,0.867532441820894
+"17","Metabolism: mitochondria",1,366,0.942069312677421
+"33","Pseudogene",7,2081,0.99586558596767
+"25","Non-coding RNA: tRNA",1,712,0.995930145370501
+"49","Transmembrane protein: seven transmembrane receptor",3,1473,0.999057098798168
+"23","Non-coding RNA: ncRNA",2,7850,1
